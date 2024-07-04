@@ -43,6 +43,7 @@
 
 <h3 align="left"> 🌍 Most Used Languages</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayyuriii&layout=compact&theme=radical" alt="Mayuri's Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayyuriii&layout=compact&theme=radical&langs_count=5&hide=java,php&exclude_repo=Mayyuriii/PowerBI-Dashboard" alt="Mayuri's Most Used Languages"/>
 </p>
+
 
