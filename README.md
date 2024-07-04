@@ -33,7 +33,7 @@
 
 <h3 align="left"> 🎓 Enthusiasm for Learning</h3>
 <p align="left">
-  I'm enthusiastic about learning new things every day and <br>am always eager to acquire new skills. Currently, I am <br>looking for Internship/Full-Time Opportunities in data analyst roles.
+  I'm enthusiastic about learning new things every day and am always eager <br>to acquire new skills. Currently, I am looking for Internship/<br>Full-Time Opportunities in data analyst roles.
 </p>
 
 <h3 align="left"> 📈 GitHub Stats</h3>
