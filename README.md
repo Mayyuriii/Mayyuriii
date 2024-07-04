@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="Waving Hand" width="30" height="30"/>, I'm Mayuri</h1>
 
 <h2 align="left"> 🌟 About Me</h2>
-<h3 align="left">👩‍💻 Hi, I'm Mayuri Mane, currently pursuing a Bachelor of Technology with a specialization in Business Analytics. I am passionate about data analysis 📊 and have a keen interest in MERN development 💻. Frontend developer from India</h3>
+<h3 align="left">👩‍💻 Hi, I'm Mayuri Mane, currently pursuing a Bachelor of Technology with a specialization in Business Analytics. I am passionate about data analysis 📊 and have a keen interest in MERN development 💻.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <h3 align="left"> 📱Connect with me</h3>
